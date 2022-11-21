@@ -5,4 +5,4 @@
 */
 
 
-console.log(delete e.src);   // retorna true
+console.log(delete e);   // retorna true
